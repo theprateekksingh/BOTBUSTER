@@ -1,0 +1,41 @@
+{
+"project": "BOTBUSTER",
+"demo_accounts": [
+{
+"username": "demo_safe_account",
+"platform": "Instagram",
+"followers": 4200,
+"following": 380,
+"account_age_days": 1200,
+"avg_likes": 310,
+"avg_comments": 24,
+"posts_per_week": 3,
+"verified": false,
+"profile_picture": true
+},
+{
+"username": "demo_moderate_account",
+"platform": "Instagram",
+"followers": 8500,
+"following": 2100,
+"account_age_days": 420,
+"avg_likes": 180,
+"avg_comments": 7,
+"posts_per_week": 8,
+"verified": false,
+"profile_picture": true
+},
+{
+"username": "demo_high_risk_account",
+"platform": "Instagram",
+"followers": 25000,
+"following": 9800,
+"account_age_days": 45,
+"avg_likes": 35,
+"avg_comments": 1,
+"posts_per_week": 30,
+"verified": false,
+"profile_picture": false
+}
+]
+}
