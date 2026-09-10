@@ -1,0 +1,19 @@
+BOTBUSTER/
+│
+├── README.md
+│
+├── docs/
+│   ├── project-overview.md
+│   ├── methodology.md
+│   └── architecture.md
+│
+├── demo/
+│   └── demo-data.json
+│
+├── screenshots/
+│   ├── home.png
+│   ├── analyzer.png
+│   ├── result.png
+│   └── dashboard.png
+│
+└── .gitignore
